@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/html_grid_layout_swdv640.iml" filepath="$PROJECT_DIR$/.idea/html_grid_layout_swdv640.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swdv640_final_project/.idea/swdv640_final_project.iml" filepath="$PROJECT_DIR$/../swdv640_final_project/.idea/swdv640_final_project.iml" />
+    </modules>
+  </component>
+</project>
